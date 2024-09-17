@@ -16,7 +16,7 @@ Hi! I'm a grad student exploring data analytics. This project uses Power BI to a
 ## What I Did
 
 - **Web Scraping**: Used Selenium to collect data from Audible.
-- **Data Processing**: Cleaned data in Power BI, replacing `-1` with `null`.
+- **Data Processing**: Cleaned data in Power BI.
 - **Visualization**: Created interactive dashboards in Power BI.
 
 ## How to Use
